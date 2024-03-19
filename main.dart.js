@@ -81818,7 +81818,7 @@ A.vB.prototype={
 af(){return new A.Oa(B.k)}}
 A.Oa.prototype={
 J(a){var s=null,r=t.p
-return A.qZ(A.uu($.p9().ay.b,!0,B.Qd),A.L0(A.L0(A.fa(A.b([B.AC,A.ja(A.fa(A.b([A.df(A.b([new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-1.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-2.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-3.webp",400,400),s)],r),B.H,B.b9,B.O),A.df(A.b([new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-4.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-5.jpg",400,400),s)],r),B.H,B.b9,B.O)],r),B.H,B.b9,B.O),s,s)],r),B.H,B.a1,B.O),B.aZ),B.aY),s)}}
+return A.qZ(A.uu($.p9().ay.b,!0,B.Qg),A.L0(A.L0(A.fa(A.b([B.AC,A.ja(A.fa(A.b([A.df(A.b([new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-1.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-2.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-3.webp",400,400),s)],r),B.H,B.b9,B.O),A.df(A.b([new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-4.webp",400,400),s),new A.bt(B.cj,A.wl("images/tej2o1-01_d-joe_franzen-easter-egg-5.jpg",400,400),s)],r),B.H,B.b9,B.O)],r),B.H,B.b9,B.O),s,s)],r),B.H,B.a1,B.O),B.aZ),B.aY),s)}}
 A.vK.prototype={
 af(){return new A.Oj(new A.yD(B.k),B.k)}}
 A.Oj.prototype={
@@ -81858,7 +81858,7 @@ s=this.c
 s.toString
 A.ax9(new A.aeY(r,this),s,t.z)},
 J(a){var s=null,r=t.p
-return A.qZ(A.uu($.p9().ay.b,!0,B.Qg),A.L0(A.fa(A.b([B.Q3,A.fs(A.a9X($.am1(),s),s,300),B.LA,A.df(A.b([A.fa(A.b([B.Q2,A.fs(A.a9X($.V0(),B.yb),s,50)],r),B.H,B.a1,B.O),B.Lz,A.fa(A.b([B.Qe,A.fs(A.a9X($.V_(),B.yb),s,50)],r),B.H,B.a1,B.O)],r),B.H,B.a1,B.O),B.J7,new A.bt(B.Cs,new A.JD("Blue 1","Red 1","Blue 2","Red 2","Blue 3","Red 3",$.Ky,this.galM(),s),s),A.arn(!1,B.Q4,B.z,s,s,s,s,s,this.gael(this),s,s),new A.bt(B.m9,A.wl("images/field.png",s,s),s)],r),B.H,B.a1,B.O),B.aZ),s)}}
+return A.qZ(A.uu($.p9().ay.b,!0,B.Qf),A.L0(A.fa(A.b([B.Q3,A.fs(A.a9X($.am1(),s),s,300),B.LA,A.df(A.b([A.fa(A.b([B.Q2,A.fs(A.a9X($.V0(),B.yb),s,50)],r),B.H,B.a1,B.O),B.Lz,A.fa(A.b([B.Qd,A.fs(A.a9X($.V_(),B.yb),s,50)],r),B.H,B.a1,B.O)],r),B.H,B.a1,B.O),B.J7,new A.bt(B.Cs,new A.JD("Blue 1","Red 1","Blue 2","Red 2","Blue 3","Red 3",$.Ky,this.galM(),s),s),A.arn(!1,B.Q4,B.z,s,s,s,s,s,this.gael(this),s,s),new A.bt(B.m9,A.wl("images/field.png",s,s),s)],r),B.H,B.a1,B.O),B.aZ),s)}}
 A.aeZ.prototype={
 $0(){var s=this.a
 s.toString
@@ -81897,7 +81897,7 @@ r=this.c
 r.toString
 A.ax9(new A.ain(q,this,s),r,t.z)},
 J(a){var s=null
-return A.qZ(A.uu($.p9().ay.b,!0,B.Q5),A.fa(A.b([B.Qa,A.fs(A.a9X($.UZ(),B.ya),s,350),A.ja(new A.bt(B.cj,A.arn(!1,B.Qf,B.z,s,s,s,s,s,new A.aii(this),s,s),s),s,s)],t.p),B.H,B.a1,B.O),s)}}
+return A.qZ(A.uu($.p9().ay.b,!0,B.Q5),A.fa(A.b([B.Qa,A.fs(A.a9X($.UZ(),B.ya),s,350),A.ja(new A.bt(B.cj,A.arn(!1,B.Qe,B.z,s,s,s,s,s,new A.aii(this),s,s),s),s,s)],t.p),B.H,B.a1,B.O),s)}}
 A.ain.prototype={
 $1(a){var s=null,r=$.am1().a.a.length===0||$.V_().a.a.length===0||$.V0().a.a.length===0||$.UZ().a.a.length===0||$.Ky.length===0,q=this.c,p=t.p
 if(r){r=A.di("You're missing something, make sure you filled every field"+q,s,s,s,s,s,s)
@@ -87670,12 +87670,12 @@ B.Qa=new A.cg("Comments",null,null,null,null,null,null,null,null)
 B.Qb=new A.cg("Park",null,null,null,null,null,null,null,null)
 B.ke=new A.cg("",null,null,null,null,null,null,null,null)
 B.Qc=new A.cg("Trap",null,null,null,null,null,null,null,null)
-B.Qd=new A.cg("EasterEgg (only for leadership, don't mess with this page)",null,B.kc,null,null,null,null,null,null)
-B.Qe=new A.cg("Match Number",null,null,null,null,null,null,null,null)
+B.Qd=new A.cg("Match Number",null,null,null,null,null,null,null,null)
 B.yg=new A.cg("Confirm",null,null,null,null,null,null,null,null)
-B.Qf=new A.cg("Send Data",null,null,null,null,null,null,null,null)
-B.Qg=new A.cg("Home",null,B.kc,null,null,null,null,null,null)
+B.Qe=new A.cg("Send Data",null,null,null,null,null,null,null,null)
+B.Qf=new A.cg("Home",null,B.kc,null,null,null,null,null,null)
 B.kf=new A.cg("OK",null,null,null,null,null,null,null,null)
+B.Qg=new A.cg("Easter Egg",null,B.kc,null,null,null,null,null,null)
 B.yh=new A.cg("Amp",null,null,null,null,null,null,null,null)
 B.yi=new A.cg("Cancel",null,null,null,null,null,null,null,null)
 B.yj=new A.cg("Ground Intake (see home page for layout)",null,null,null,null,null,null,null,null)
