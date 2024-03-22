@@ -82034,10 +82034,10 @@ s.W(new A.a7g(s,a))},
 $S:13}
 A.a7g.prototype={
 $0(){var s=this.a,r=++s.f
-if(r>=20){$.a7k=!0
+if(r>=60){$.a7k=!0
 s.d=5
 s.e=0
-if(r>20&&this.b!==0)s.f=0
+if(r>60&&this.b!==0)s.f=0
 else return}s.e=s.d=this.b},
 $S:0}
 A.a7l.prototype={
